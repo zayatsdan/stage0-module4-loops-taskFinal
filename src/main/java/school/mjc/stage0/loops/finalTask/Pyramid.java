@@ -14,14 +14,15 @@ public class Pyramid {
                 System.out.print(numberB);
             }
 
-            
+
             System.out.println();
             counterClock++;
             counterClock++;
         }
     }
 
-}
+
+
 
     public static void main(String[] args) {
         new Pyramid().printPyramid(7);
