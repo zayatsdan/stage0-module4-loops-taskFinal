@@ -14,9 +14,7 @@ public class Pyramid {
                 System.out.print(numberB);
             }
 
-            for (int empty1 = 2 * cathetusLength - 1 - counterClock; empty1 > 0; empty1--, empty1--) {
-                System.out.print(" ");
-            }
+            
             System.out.println();
             counterClock++;
             counterClock++;
