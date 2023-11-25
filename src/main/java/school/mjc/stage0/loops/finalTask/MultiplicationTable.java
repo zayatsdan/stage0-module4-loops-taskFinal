@@ -6,6 +6,6 @@ public class MultiplicationTable {
              for (int counter=0;counter<10;counter++){
                  System.out.println((counter+1)+" x "+numberTableToPrint+" = "+numberTableToPrint*(counter+1));
              }
-         }
+         
     }
 }
